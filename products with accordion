@@ -1,0 +1,506 @@
+CURRIED SUN DRIED TOMATO
+
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+<p>This savoury, aromatic sauce pairs well with cauliflower, pasta, chicken, and chickpeas. A small spoon goes a long way – easy to use and convenient, we’ve tested this in over 70 recipes.</p>
+<br>
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-1" type="checkbox" name="tabs" />
+    <label for="so-tab-1">What Can I Eat This With?</label>
+    <div class="so-tab-content">
+      <p>Why did the curried sun-dried tomato blush? Because it saw the salad dressing. Don't ask us how we came up with this flavour fiesta; one of life’s greatest mysteries. Great with cauliflower, lean cuts of beef, and if you’re feeling extra adventurous - as a substitute for pizza sauce.</p>
+      <br>
+      <p>All our sauces have been made to be as versatile as possible, so the only limit is your imagination. To get you started with a few ideas, Curried Sun-Dried Tomato is outrageously good with chicken, in chana masala, and as an accompaniment to samosas and empanadas. For loads more ideas have a look at our Instagram @yugo_spice.</p>
+      <br>
+      <p>Our sauces are made to be used both hot (e.g. in pizzas and pasta) or cold (e.g. to top falafel or as a dip), and they can be used as a marinade, cooking sauce, or to top your food with.</p>
+      <br>
+      <p>This sauce is suitable for vegans and is made with natural ingredients without any additives or preservatives. We manufacture in small batches in the UK using the best quality ingredients.</p>
+    </div>
+  </div>
+
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-2" type="checkbox" name="tabs" />
+    <label for="so-tab-2">Ingredients and Allergen Information</label>
+    <div class="so-tab-content">
+      <p>Ingredients: Marinated Sun Dried Tomato (Sun Dried Tomatoes (50%) (Sun Dried Tomatoes, Salt), Rapeseed Oil, White Wine Vinegar, Water) (58%), Water, Apricot Conserve (Apricots, Sugar, Citric Acid), Curry Spices (Coriander, Cumin, Turmeric, Chilli, Bay, Cinnamon, Garlic) (2%).</p>
+      <br>
+      <p>Nutritional Information: Typical values per 100ml. Energy: 1337kj/323kcal / Fat (of which saturates): 22.7g (3.3g) / Carbohydrate (of which sugars): 29.5g (20.4g) / Protein: 5.6g / Salt: 1g.</p>
+      <br>
+      <p>Please note all sauces are manufactured in a facility that handles all allergens.</p>
+      <br>
+      <p>Each jar has 150mL of Curried Sun-Dried Tomato Stir-In Paste. A serving is approximately 15mL.</p>
+    </div>
+  </div>
+</div>
+
+MISO CHIPOTLE
+
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+<p>This spicy, smokey, and tangy sauce pairs well with aubergine, prawns, salmon, and in quesadillas. A small spoon goes a long way – easy to use and convenient, we’ve tested this in over 70 recipes.</p>
+<br>
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-1" type="checkbox" name="tabs" />
+    <label for="so-tab-1">What Can I Eat This With?</label>
+    <div class="so-tab-content">
+      <p>Our Yūgō bambino. The original. So outrageously good that it needs no introduction. This one will put you into the master chef history books when stirred in with aubergine, chicken thighs and salmon.</p>
+      <br>
+      <p>All our sauces have been made to be as versatile as possible, so the only limit is your imagination. To get you started with a few ideas, Miso Chipotle is outrageously good with prawns, in quesadillas, and as a glaze for aubergine (don’t forget to add some oil if you’re roasting this as there is none in the sauce and the honey might burn). For loads more ideas have a look at our Instagram @yugo_spice.</p>
+      <br>
+      <p>Our sauces are made to be used both hot (e.g. in stir-fries and quesadillas) or cold (e.g. as a dip), and they can be used as a marinade, cooking sauce, or to top your food with.</p>
+      <br>
+      <p>This sauce is suitable for vegetarians and is made with natural ingredients without any additives or preservatives. We manufacture in small batches in the UK using the best quality ingredients.</p>
+    </div>
+  </div>
+
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-2" type="checkbox" name="tabs" />
+    <label for="so-tab-2">Ingredients and Allergen Information</label>
+    <div class="so-tab-content">
+      <p>Ingredients: Lime Juice, Honey, Miso Paste (Water, Soybeans, Rice, Salt, Alcohol) (25%), Cider Vinegar, Onion, Chipotle Chilli (3%), Tomato Paste (Tomato Paste, Salt), Olive Oil, Xanthan Gum. For Allergens See Ingredients in bold.</p>
+      <br>
+      <p>Nutritional Information: Typical values per 100ml. Energy: 740kj/174kcal /
+Fat (of which saturates): 2.7g (0.4 g) / Carbohydrate (of which sugars): 33.5g
+(26g) / Protein: 4.8g / Salt: 3.3g</p>
+<br>
+      <p>Please note all sauces are manufactured in a facility that handles all allergens.</p>
+      <br>
+      <p>Each jar has 150mL of Miso Chipotle Stir-In Paste. A serving is approximately 15mL.</p>
+    </div>
+  </div>
+</div>
+
+
+CHIPOTLE GARNI
+
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+<p>This smokey, herby, and zesty hot sauce goes well on most things, but it's amazing on hummus, on chicken wings (just add butter!), and on halloumi. A small spoon goes a long way – easy to use and convenient, we’ve tested this in over 70 recipes.</p>
+<br>
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-1" type="checkbox" name="tabs" />
+    <label for="so-tab-1">What Can I Eat This With?</label>
+    <div class="so-tab-content">
+      <p>My mum was so overwhelmed by the chipotle sauce we made for the miso chipotle flavour, that she padlocked us in the kitchen until we agreed to make it into a hot sauce. Good on everything that needs a bit of spicing up, especially lathered over hummus. Come to Mama!</p>
+      <br>
+      <p>All our sauces have been made to be as versatile as possible, so the only limit is your imagination. To get you started with a few ideas, Chipotle Garni is outrageously good as a sauce for chicken wings (just mix with a few spoonfuls of melted butter), in a wrap with hummus and crunchy veg, and as a dip for your chips. For loads more ideas have a look at our Instagram @yugo_spice.</p>
+      <br>
+      <p>Our sauces are made to be used both hot (e.g. in pizzas and chicken wings) or cold (e.g. to hummus or as a dip), and they can be used as a marinade, cooking sauce, or to top your food with.</p>
+      <br>
+      <p>This sauce is suitable for vegetarians and is made with natural ingredients without any additives or preservatives. We manufacture in small batches in the UK using the best quality ingredients.</p>
+    </div>
+  </div>
+
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-2" type="checkbox" name="tabs" />
+    <label for="so-tab-2">Ingredients and Allergen Information</label>
+    <div class="so-tab-content">
+      <p>Ingredients: Cider Vinegar, Water, Onion, Honey, Chipotle Chilli (7%), Tomato Paste (Tomato Paste, Salt), Olive Oil, Bouquet Garni Herbs (Coriander, Marjoram, Thyme, Oregano, Rosemary) (2%), Salt, Orange Oil.</p>
+      <br>
+      <p>Nutritional Information: Typical values per 100ml. Energy: 349kj/83kcal / Fat (of which saturates): 2.1g (0.3g) / Carbohydrate (of which sugars): 13g (11g) / Protein: 1.6g / Salt: 1.1g.</p>
+      <br>
+      <p>Please note all sauces are manufactured in a facility that handles all allergens.</p>
+      <br>
+      <p>Each bottle has 150mL of Chipotle Garni Hot Sauce. A serving is approximately 15mL.</p>
+    </div>
+  </div>
+</div>
+
+
+
+CURRIED SUN DRIED TOMATO PACK OF 3
+
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+<p>Eating this straight out the jar? Don't worry, it's normal. That's why we're making them available in packs of 3!</p>
+<br>
+<p>This savoury, aromatic sauce pairs well with cauliflower, pasta, chicken, and chickpeas. A small spoon goes a long way – easy to use and convenient, we’ve tested this in over 70 recipes.</p><br>
+<p>For more information on how to use this sauce, please visit the Curried Sun-Dried Tomato Stir-In Paste product page</p><br>
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-2" type="checkbox" name="tabs" />
+    <label for="so-tab-2">Ingredients and Allergen Information</label>
+    <div class="so-tab-content">
+      <p>Ingredients: Marinated Sun Dried Tomato (Sun Dried Tomatoes (50%) (Sun Dried Tomatoes, Salt), Rapeseed Oil, White Wine Vinegar, Water) (58%), Water, Apricot Conserve (Apricots, Sugar, Citric Acid), Curry Spices (Coriander, Cumin, Turmeric, Chilli, Bay, Cinnamon, Garlic) (2%).</p>
+      <br>
+      <p>Nutritional Information: Typical values per 100ml. Energy: 1337kj/323kcal / Fat (of which saturates): 22.7g (3.3g) / Carbohydrate (of which sugars): 29.5g (20.4g) / Protein: 5.6g / Salt: 1g.</p>
+      <br>
+      <p>Please note all sauces are manufactured in a facility that handles all allergens.</p>
+      <br>
+      <p>Each pack contains 3 jars of Curried Sun-Dried Tomato Stir-In Paste (150mL each). A serving is approximately 15mL.</p>
+    </div>
+  </div>
+</div>
+
+MISO CHIPOTLE PACK OF THREE
+
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+<p>Found yourself wondering if you can bathe in this sauce? Perhaps with these new packs of 3, you just might*...</p><br>
+<p>*Disclaimer: please don't bathe in it, it's got chilli peppers in it so it might not be the best idea. Just a thought.</p>
+<br>
+<p>This spicy, smokey, and tangy sauce pairs well with aubergine, prawns, salmon, and in quesadillas. A small spoon goes a long way – easy to use and convenient, we’ve tested this in over 70 recipes.</p><br>
+<p>For more information on how to use this sauce, please visit the Miso Chipotle Stir-In Paste product page</p><br>
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-2" type="checkbox" name="tabs" />
+    <label for="so-tab-2">Ingredients and Allergen Information</label>
+    <div class="so-tab-content">
+      <p>Ingredients: Lime Juice, Honey, Miso Paste (Water, Soybeans, Rice, Salt, Alcohol) (25%), Cider Vinegar, Onion, Chipotle Chilli (3%), Tomato Paste (Tomato Paste, Salt), Olive Oil, Xanthan Gum. For Allergens See Ingredients in bold.</p>
+      <br>
+      <p>Nutritional Information: Typical values per 100ml. Energy: 740kj/174kcal /
+Fat (of which saturates): 2.7g (0.4 g) / Carbohydrate (of which sugars): 33.5g
+(26g) / Protein: 4.8g / Salt: 3.3g</p>
+<br>
+      <p>Please note all sauces are manufactured in a facility that handles all allergens.</p>
+      <br>
+      <p>Each pack contains 3 jars of Miso Chipotle Stir-In Paste (150mL each). A serving is approximately 15mL.</p>
+    </div>
+  </div>
+</div>
+
+
+CHIPOTLE GARNI PACK OF THREE
+
+<!-- Begin Accordion Snippet -->
+<style>
+  .so-tab {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 25px 0;
+  }
+  .so-tab label {
+    position: relative;
+    display: block;
+    padding: 0 25px 0 0;
+    margin-bottom: 15px;
+    line-height: normal;
+    cursor: pointer;
+  }
+  .so-tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .so-tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .35s;
+  }
+  /* :checked */
+  .so-tab input:checked ~ .so-tab-content {
+    max-height: none;
+  }
+  /* Icon */
+  .so-tab label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  .so-tab input[type=checkbox] + label::after {
+    content: "+";
+  }
+  .so-tab input[type=radio] + label::after {
+    content: "\25BC";
+  }
+  .so-tab input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  .so-tab input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+</style>
+
+      <p>Getting a *bit* addicted to our hot sauce? Completely understandable, that's why they're now available in packs of 3!</p><br>
+<p>This smokey, herby, and zesty hot sauce goes well on most things, but it's amazing on hummus, on chicken wings (just add butter!), and on halloumi. A small spoon goes a long way – easy to use and convenient, we’ve tested this in over 70 recipes.</p>
+<br>
+<p>For more information on how to use this sauce, please visit the Chipotle Garni Hot Sauce product page</p><br>
+
+<div class="so-accordion-wrapper">
+  <div class="so-tab">
+    <input id="so-tab-2" type="checkbox" name="tabs" />
+    <label for="so-tab-2">Ingredients and Allergen Information</label>
+    <div class="so-tab-content">
+      <p>Ingredients: Cider Vinegar, Water, Onion, Honey, Chipotle Chilli (7%), Tomato Paste (Tomato Paste, Salt), Olive Oil, Bouquet Garni Herbs (Coriander, Marjoram, Thyme, Oregano, Rosemary) (2%), Salt, Orange Oil.</p>
+      <br>
+      <p>Nutritional Information: Typical values per 100ml. Energy: 349kj/83kcal / Fat (of which saturates): 2.1g (0.3g) / Carbohydrate (of which sugars): 13g (11g) / Protein: 1.6g / Salt: 1.1g.</p>
+      <br>
+      <p>Please note all sauces are manufactured in a facility that handles all allergens.</p>
+      <br>
+      <p>Each pack contains 3 bottles of Chipotle Garni Hot Sauce (150mL each). A serving is approximately 15mL.</p>
+    </div>
+  </div>
+</div>
+
+
